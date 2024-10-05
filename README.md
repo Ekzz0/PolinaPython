@@ -13,5 +13,7 @@
 **План 2 урока:**
 1. Циклы For и While
 2. Оператор if - else
+3. Списки (дополним инфу)
+4. Словари
 
 **Ссылка на [2 урок](https://github.com/Ekzz0/PolinaPython/tree/main/lesson2)**
